@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="navi_rs_company">
+      <MAINMENU id="navi_rs_dbschema">
+        <SUBMENU id="navi_rs_dbschema_ide" cl="rs_dbschema_ide" />
+      </MAINMENU>
+    </OXMENU>
+</OX>
