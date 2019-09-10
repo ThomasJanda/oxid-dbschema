@@ -5,6 +5,8 @@
 Visualize table relations. The system detect relations which store in the database. Also it contain the relations in a file (not finish till now) to help the system, display the correct relation between the tables.
 ![](admin.png)
 
+Module was created for Oxid 6.x
+
 ## Install
 1. Copy files into following directory
         
